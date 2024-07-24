@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T09:18:24.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="K7Dp1mabnhdmCPq55sew" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T09:33:04.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ub69xrMpjJU28376tq4b" version="24.7.3" type="github">
   <diagram name="第 1 页" id="mB2ytg4VavdGL_v1y-Tx">
     <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,13 +108,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-51" value="质量控制（QC）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_lkyO2kiW3pLqTKqFde5-1">
-          <mxGeometry x="430" y="307" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_lkyO2kiW3pLqTKqFde5-1" source="_lkyO2kiW3pLqTKqFde5-55" target="_lkyO2kiW3pLqTKqFde5-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-55" value="序列比对注释" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_lkyO2kiW3pLqTKqFde5-1">
-          <mxGeometry x="430" y="409" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="447" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_lkyO2kiW3pLqTKqFde5-1" source="_lkyO2kiW3pLqTKqFde5-57" target="_lkyO2kiW3pLqTKqFde5-74">
           <mxGeometry relative="1" as="geometry" />
@@ -123,19 +123,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-57" value="差异表达分析&lt;div&gt;功能富集分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_lkyO2kiW3pLqTKqFde5-1">
-          <mxGeometry x="430" y="512" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_lkyO2kiW3pLqTKqFde5-1" source="_lkyO2kiW3pLqTKqFde5-59" target="_lkyO2kiW3pLqTKqFde5-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-59" value="基于t-SNE进行信号分类" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_lkyO2kiW3pLqTKqFde5-1">
-          <mxGeometry x="618" y="307" width="120" height="60" as="geometry" />
+          <mxGeometry x="618" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_lkyO2kiW3pLqTKqFde5-1" source="_lkyO2kiW3pLqTKqFde5-61" target="_lkyO2kiW3pLqTKqFde5-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-61" value="Poly(A)尾信号分割" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_lkyO2kiW3pLqTKqFde5-1">
-          <mxGeometry x="618" y="409" width="120" height="60" as="geometry" />
+          <mxGeometry x="618" y="447" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_lkyO2kiW3pLqTKqFde5-1" source="_lkyO2kiW3pLqTKqFde5-63" target="_lkyO2kiW3pLqTKqFde5-74">
           <mxGeometry relative="1" as="geometry" />
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-63" value="病原体RNA富集" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="_lkyO2kiW3pLqTKqFde5-1">
-          <mxGeometry x="618" y="512" width="120" height="60" as="geometry" />
+          <mxGeometry x="618" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_lkyO2kiW3pLqTKqFde5-67" value="目标未知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_lkyO2kiW3pLqTKqFde5-1">
           <mxGeometry x="228" y="42" width="70" height="30" as="geometry" />
